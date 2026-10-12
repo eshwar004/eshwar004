@@ -88,31 +88,17 @@
   </tr>
   <tr>
     <td width="28%" valign="top">
-      <h3>C++ Limit Order Book</h3>
-      <b>Matching Engine</b><br>
-      <sub>April 2026 – August 2026</sub>
+      <h3>Restaurant Inventory & Order Management System</h3>
+      <b>High-Scale Backend System</b><br>
+      <sub>October 2026</sub>
     </td>
     <td width="72%" valign="top">
-      Designed a price-time-priority limit order book and matching engine in C++, supporting order insertion, cancellation, matching, and trade execution. Built STL-based structures for price levels and FIFO priority, along with a market-data simulator for high-volume order streams. Added benchmarking for p50 / p95 / p99 latency measurement.
+      Built a backend system for restaurant orders and inventory management, with transactional inventory reservations using PostgreSQL row-level locking and idempotency to help prevent overselling. Designed order workflows with reservation expiry, Redis caching, and Kafka-based asynchronous event processing. Added database indexing, Docker-based deployment, and concurrent-load testing to evaluate reliability under contention.
       <br><br>
-      <b>Stack:</b> <code>C++</code> <code>STL</code> <code>Data Structures</code> <code>Systems Programming</code> <code>Performance Benchmarking</code>
+      <b>Stack:</b> <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kafka</code> <code>Docker</code>
       <br><br>
-      <!-- TODO: replace ADD_LIMIT_ORDER_BOOK_REPOSITORY_URL with your repository URL -->
-      <a href="ADD_LIMIT_ORDER_BOOK_REPOSITORY_URL"><img src="https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="28%" valign="top">
-      <h3>SecureJudge</h3>
-      <b>Online Coding Platform</b>
-    </td>
-    <td width="72%" valign="top">
-      Built an online coding platform with a React + TypeScript frontend and a FastAPI backend for browsing coding problems and submitting solutions. Designed a PostgreSQL-backed persistence layer using SQLAlchemy and Alembic migrations, with pgvector support for vector-based capabilities. Structured the system around clean REST APIs and a Docker-based backend setup.
-      <br><br>
-      <b>Stack:</b> <code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Docker</code>
-      <br><br>
-      <!-- TODO: replace ADD_SECUREJUDGE_REPOSITORY_URL with your repository URL -->
-      <a href="ADD_SECUREJUDGE_REPOSITORY_URL"><img src="https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+      <!-- TODO: replace ADD_INVENTORY_PROJECT_REPOSITORY_URL with your repository URL -->
+      <a href="ADD_INVENTORY_PROJECT_REPOSITORY_URL"><img src="https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
   </tr>
 </table>
