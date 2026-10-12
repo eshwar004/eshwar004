@@ -83,7 +83,7 @@
       <b>Stack:</b> <code>Python</code> <code>Tree-sitter</code> <code>PostgreSQL / pgvector</code> <code>OpenAI Embeddings</code> <code>RAG</code>
       <br><br>
       <!-- TODO: replace ADD_CODEPILOT_AI_REPOSITORY_URL with your repository URL -->
-      <a href="ADD_CODEPILOT_AI_REPOSITORY_URL"><img src="https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+      <a href="https://github.com/eshwar004/CodePilot"><img src="https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@
       <b>Stack:</b> <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>Redis</code> <code>Kafka</code> <code>Docker</code>
       <br><br>
       <!-- TODO: replace ADD_INVENTORY_PROJECT_REPOSITORY_URL with your repository URL -->
-      <a href="ADD_INVENTORY_PROJECT_REPOSITORY_URL"><img src="https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+      <a href="https://github.com/eshwar004/restaurant-inventory-system"><img src="https://img.shields.io/badge/View%20Repository%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
   </tr>
 </table>
